@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdityaGodara
+- 👀 I’m interested in Web Development, Animated pictures and Writing!
+- 🌱 I’m currently learning 3D Animation.
+- 📫 You can contact me on my instagram: www.instagram.com/idopeshot, email: thecrazybook8@gmail.com
