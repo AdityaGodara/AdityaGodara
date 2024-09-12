@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-adityagodara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-godara-b858751ab/)](https://www.linkedin.com/in/aditya-godara-b858751ab/)
 [![Gmail Badge](https://img.shields.io/badge/-adityagodara03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityagodara03@gmail.com)](mailto:adityagodara03@gmail.com)
+[![Portfolio badge](https://flat.badgen.net/static/Portfolio/:}/blue)](https://aditya-godara.netlify.app/)
 <br>
 <ul>
   <li>👀 I’m quite into web development and 3D designing!</li>
