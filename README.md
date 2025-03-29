@@ -2,7 +2,7 @@
 <h3> Web 🌐 & App 📱 Developer </h3>
 <p><img src="https://komarev.com/ghpvc/?username=AdityaGodara&color=blue" alt="AdityaGodara" /></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aditya_Godara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-godara-b858751ab/)](https://www.linkedin.com/in/aditya-godara-b858751ab/) [![Gmail Badge](https://img.shields.io/badge/-adityagodara03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivampilot2004@gmail.com)](mailto:shivampilot2004@gmail.com) [![Badge](https://img.shields.io/badge/-Portfolio-Purple?style=flat-square&logo=simkl&logoColor=white&link=https://aditya-godara.netlify.app/)](https://aditya-godara.netlify.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aditya_Godara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-godara-b858751ab/)](https://www.linkedin.com/in/aditya-godara-b858751ab/) [![Gmail Badge](https://img.shields.io/badge/-adityagodara03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityagodara03@gmail.com@gmail.com)](mailto:adityagodara03@gmail.com) [![Badge](https://img.shields.io/badge/-Portfolio-Purple?style=flat-square&logo=simkl&logoColor=white&link=https://aditya-godara.netlify.app/)](https://aditya-godara.netlify.app/)
 
 
 # 🛠 Tech Stack:
@@ -17,6 +17,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
