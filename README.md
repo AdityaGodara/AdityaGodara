@@ -1,5 +1,5 @@
 <h1>Hola, It's Aditya Godara! 🦭</h1>
-<h3> Web 🌐 & App 📱 Developer | Data Ananlyst</h3>
+<h3> Software Developer | Full Stack Developer | System Designer</h3>
 <p><img src="https://komarev.com/ghpvc/?username=AdityaGodara&color=blue" alt="AdityaGodara" /></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Godara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-godara-b858751ab/)](https://www.linkedin.com/in/aditya-godara-b858751ab/) [![Gmail Badge](https://img.shields.io/badge/-adityagodara03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityagodara03@gmail.com@gmail.com)](mailto:adityagodara03@gmail.com) [![Badge](https://img.shields.io/badge/-Portfolio-Purple?style=flat-square&logo=simkl&logoColor=white&link=https://aditya-godara.netlify.app/)](https://aditya-godara.netlify.app/)
